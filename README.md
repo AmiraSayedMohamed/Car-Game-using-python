@@ -1,4 +1,5 @@
 # 🚗💥 **Car Collision Game** 🚗💥
+![Alt text](https://github.com/AmiraSayedMohamed/Car-Game-using-python/blob/master/game.jpg)
 
 Welcome to **Car Collision Game** — a thrilling obstacle dodging game where your mission is to avoid crashing into objects! This game will test your reflexes, as every collision brings you closer to the ultimate end. But be careful: Three strikes, and it's **GAME OVER!** 😲
 
@@ -46,6 +47,11 @@ Follow these steps to set up the game and start playing!
 ---------------------------------------------------------------------------------------------------------------
 ### 📸 Screenshots
 ![Alt text](https://github.com/AmiraSayedMohamed/Car-Game-using-python/blob/master/game.jpg)
-     
+
+--------------------------------------------------------------------------------------------------------------=
+### 🛠️ Built With
+ - **Python** 🐍
+ - **Pygame** 🎮
+   ---------------------------------------------------------------------------------------------------------------
 
 
