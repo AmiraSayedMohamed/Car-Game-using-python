@@ -14,17 +14,17 @@ You're driving a car on an endless road. The challenge? **Dodge obstacles** comi
 - **Dynamic Obstacles** 🚧: Trees, barrels, other cars—each game is unique with randomized challenges.
 - **Crash Counter** 🛑: Track how many times you've crashed—3 strikes and it's over.
 - **Smooth Controls** 🎮: Swipe or click to dodge left or right with ease.
-
+-------------------------------------------------------------------------------------------------------------
 ## 🚀 **Getting Started**
 
 Follow these steps to set up the game and start playing!
-
+---------------------------------------------------------------------------------------------------------------
 ### 1️⃣ **Installation**
 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/car-collision-game.git
-
+-------------------------------------------------------------------------------------------------------------------
 ### 🎯 How to Play
   -    **Start the game** by running the play.py file.
   -    **Swipe** or click left and right to control your car.
@@ -38,12 +38,12 @@ Follow these steps to set up the game and start playing!
 - 🌳 **Obstacles**: Various objects like trees, barrels, and other vehicles appear randomly.
 - 💥 **Crashes**: After each crash, the car blinks and the crash counter increases. After 3 crashes, the game ends.
 
-
+--------------------------------------------------------------------------------------------------------------
 ### 💡 Future Features (Coming Soon)
 - **Power-ups**: Pick up boosts like shields or speed bursts to improve your chances.
 - **Multiplayer Mode**: Race against friends and dodge obstacles together.
 - **Customizable Cars**: Choose different vehicles for your runs.
-
+---------------------------------------------------------------------------------------------------------------
 ### 📸 Screenshots
 ![Alt text](https://github.com/AmiraSayedMohamed/Car-Game-using-python/blob/master/game.jpg)
      
