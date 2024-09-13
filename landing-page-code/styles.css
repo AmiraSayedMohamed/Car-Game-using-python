@@ -1,0 +1,142 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0d0d0d;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Hero Section */
+#hero {
+    height: 100vh;
+    background: url('space-background.jpg') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-container {
+    color: #fff;
+}
+
+#hero h1 {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+#hero p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.cta-btn {
+    padding: 10px 30px;
+    background-color: #ff6347;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.cta-btn:hover {
+    background-color: #ff4500;
+}
+
+/* Game Features */
+#features {
+    padding: 50px;
+    background-color: #1b1b1b;
+    text-align: center;
+}
+
+.feature-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.feature-item {
+    width: 30%;
+}
+
+.feature-item h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+/* Trailer Section */
+#trailer {
+    text-align: center;
+    padding: 50px;
+    background-color: #151515;
+}
+
+#trailer h2 {
+    margin-bottom: 20px;
+}
+
+/* Screenshots Section */
+#screenshots {
+    padding: 50px;
+    background-color: #202020;
+    text-align: center;
+}
+
+.screenshot-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.screenshot-container img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* CTA Section */
+#cta {
+    background-color: #ff6347;
+    padding: 50px;
+    text-align: center;
+}
+
+#cta h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+#cta .cta-btn {
+    padding: 15px 40px;
+    background-color: #fff;
+    color: #ff6347;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+#cta .cta-btn:hover {
+    background-color: #f0f0f0;
+}
+
+/* Footer */
+footer {
+    background-color: #0d0d0d;
+    padding: 20px;
+    text-align: center;
+}
+
+.social-links a {
+    margin: 0 10px;
+    font-size: 1.2rem;
+}
