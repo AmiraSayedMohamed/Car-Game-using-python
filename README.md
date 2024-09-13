@@ -24,3 +24,22 @@ Follow these steps to set up the game and start playing!
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/car-collision-game.git
+
+### 🎯 How to Play
+  -    **Start the game** by running the play.py file.
+  -    **Swipe** or click left and right to control your car.
+  -   **Avoid obstacles** like trees, barrels, and other cars.
+    - **Crash** three times, and it's game over!
+
+### 🏆 Gameplay Mechanics
+- 🚗 **Player Car**: Your car moves left or right based on player input.
+- 🌳 **Obstacles**: Various objects like trees, barrels, and other vehicles appear randomly.
+- 💥 **Crashes**: After each crash, the car blinks and the crash counter increases. After 3 crashes, the game ends.
+
+### 💡 Future Features (Coming Soon)
+- **Power-ups**: Pick up boosts like shields or speed bursts to improve your chances.
+- **Multiplayer Mode**: Race against friends and dodge obstacles together.
+- **Customizable Cars**: Choose different vehicles for your runs.
+
+### 📸 Screenshots
+
