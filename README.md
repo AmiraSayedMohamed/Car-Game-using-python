@@ -31,10 +31,13 @@ Follow these steps to set up the game and start playing!
   -   **Avoid obstacles** like trees, barrels, and other cars.
     - **Crash** three times, and it's game over!
 
+----------------------------------------------------------------------------------------------------------
+
 ### 🏆 Gameplay Mechanics
 - 🚗 **Player Car**: Your car moves left or right based on player input.
 - 🌳 **Obstacles**: Various objects like trees, barrels, and other vehicles appear randomly.
 - 💥 **Crashes**: After each crash, the car blinks and the crash counter increases. After 3 crashes, the game ends.
+
 
 ### 💡 Future Features (Coming Soon)
 - **Power-ups**: Pick up boosts like shields or speed bursts to improve your chances.
