@@ -42,7 +42,6 @@ Follow these steps to set up the game and start playing!
 - **Customizable Cars**: Choose different vehicles for your runs.
 
 ### 📸 Screenshots
-      ![![Uploading image.png…]()
-](./game.jpg)
+      ![game screenshot]([./game.jpg](https://github.com/AmiraSayedMohamed/Car-Game-using-python/blob/master/game.jpg))
 
 
