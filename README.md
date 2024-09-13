@@ -42,6 +42,8 @@ Follow these steps to set up the game and start playing!
 - **Customizable Cars**: Choose different vehicles for your runs.
 
 ### 📸 Screenshots
+![Uploading image.png…]()
+
       ![Game Screenshot](game.jpg)
 
 
